@@ -120,7 +120,7 @@ function myKeydown(e)
         console.log("r");
     }
 
-    if(keyPressed == '98')
+    if(keyPressed == '89')
     {
         newImage('yellow_wall.png');
         console.log("y");
